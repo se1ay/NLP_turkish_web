@@ -1,0 +1,10 @@
+{
+  "dataset_path": "/content/drive/MyDrive/SIU/cleaned_movie_data_comment.csv",
+  "n_rows": 23605,
+  "text_col": "comment_text",
+  "rating_col": "comment_rating",
+  "min_char_len": 5,
+  "drop_duplicate_text_rating_pairs": true,
+  "base_split_seed": 42,
+  "fingerprint_sha256": "f0a57beae4b1ed5a754d48437e9b4cc35d89fce890e5c6688f7946af0744bea2"
+}
