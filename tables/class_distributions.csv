@@ -1,0 +1,7 @@
+scheme,label_id,label_name,count,ratio
+scheme_A_1to3neg_4to6neu_7to10pos,0,negative,549,0.023257784367718703
+scheme_A_1to3neg_4to6neu_7to10pos,1,neutral,1987,0.0841770811268799
+scheme_A_1to3neg_4to6neu_7to10pos,2,positive,21069,0.8925651345054014
+scheme_B_1to4neg_5to6neu_7to10pos,0,negative,834,0.03533149756407541
+scheme_B_1to4neg_5to6neu_7to10pos,1,neutral,1702,0.07210336793052319
+scheme_B_1to4neg_5to6neu_7to10pos,2,positive,21069,0.8925651345054014

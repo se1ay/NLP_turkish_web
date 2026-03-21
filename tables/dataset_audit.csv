@@ -1,0 +1,2 @@
+dataset_path,raw_rows,clean_rows,rows_removed_total,rows_removed_by_deduplication,min_char_len,drop_duplicate_text_rating_pairs
+/content/drive/MyDrive/SIU/cleaned_movie_data_comment.csv,23627,23605,22,19,5,True
