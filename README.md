@@ -1,5 +1,5 @@
 # NLP_turkish_web
-# Fixed-Split and Reproducible Transformer Comparison for Three-Class Sentiment Analysis on Turkish Movie Reviews
+# A Reproducible and Label-Sensitive Transformer Comparison for Three-Class Sentiment Analysis on Turkish Movie Reviews
 
 This repository contains the code, fixed split assignment file, and SHA-256 fingerprint for the paper submitted to SIU 2026.
 
